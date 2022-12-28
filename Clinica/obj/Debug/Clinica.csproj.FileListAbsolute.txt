@@ -1,0 +1,12 @@
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.exe.config
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.exe
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\bin\Debug\Clinica.pdb
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\bin\Debug\Guna.UI2.dll
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.Form1.resources
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.exe
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.pdb
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.apresentacao.resources
+c:\users\joão tomás manuel\documents\visual studio 2015\Projects\Clinica\Clinica\obj\Debug\Clinica.Menu.resources
